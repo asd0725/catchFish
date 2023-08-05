@@ -5,8 +5,8 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 2178,
-      "y": 9,
+      "x": 2024,
+      "y": 123,
       "width": 1280,
       "height": 720,
       "layout": {
@@ -18,7 +18,7 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 226,
+                "height": 227,
                 "type": "panel",
                 "width": 204
               },
@@ -27,12 +27,12 @@
                 "children": [
                   "assets"
                 ],
-                "height": 401.484375,
+                "height": 403,
                 "type": "panel",
                 "width": 204
               }
             ],
-            "height": 630.5,
+            "height": 633,
             "type": "dock-v",
             "width": 204
           },
@@ -45,7 +45,7 @@
                     "children": [
                       "scene"
                     ],
-                    "height": 361.5,
+                    "height": 363,
                     "type": "panel",
                     "width": 498.984375
                   },
@@ -54,12 +54,12 @@
                     "children": [
                       "node-library"
                     ],
-                    "height": 361.5,
+                    "height": 363,
                     "type": "panel",
                     "width": 264
                   }
                 ],
-                "height": 361.5,
+                "height": 363,
                 "type": "dock-h",
                 "width": 766
               },
@@ -70,12 +70,12 @@
                   "timeline",
                   "game-window"
                 ],
-                "height": 266,
+                "height": 267,
                 "type": "panel",
                 "width": 766
               }
             ],
-            "height": 630.5,
+            "height": 633,
             "type": "dock-v",
             "width": 766
           },
@@ -85,7 +85,7 @@
               "inspector",
               "cocos-services"
             ],
-            "height": 630.5,
+            "height": 633,
             "type": "panel",
             "width": 304
           }
